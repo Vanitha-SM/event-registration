@@ -137,6 +137,10 @@ top: 117px;
 background: url(Logo.png);
 ```
 ## OUTPUT:
+![out1 (1)](https://user-images.githubusercontent.com/119557985/215344522-cd3c273d-ce31-4afb-8457-ed9db613a34a.png)
+![out2 (1)](https://user-images.githubusercontent.com/119557985/215344525-c7364aa4-121b-460b-8c55-f1e3b13be6d4.png)
+![out3 (1)](https://user-images.githubusercontent.com/119557985/215344523-843fab7a-724a-4bac-a48e-5fc1e092541d.png)
+
 
 
 ## RESULT:
